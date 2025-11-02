@@ -1,0 +1,10 @@
+{
+    "users":[
+        {"name":"saif","age":26,"reg":66,"email":"saif.com"},
+        {"name":"taif","age":25,"reg":65,"email":"taif.com"},
+        {"name":"paif","age":27,"reg":64,"email":"paif.com"},
+        {"name":"faif","age":28,"reg":68,"email":"faif.com"},
+        {"name":"raif","age":22,"reg":86,"email":"raif.com"},
+        {"name":"kaif","age":23,"reg":90,"email":"kaif.com"}
+    ]
+}
